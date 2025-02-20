@@ -1,7 +1,7 @@
 # Witaj
 Cześć! Jestem Paweł, pasjonat nowych technologii, początkujący programista, entuzjasta wiedzy o zdrowiu, geopolityce i inwestowaniu. Moje zainteresowania są odzwierciedlone w projektach, które znajdziesz na moim profilu.
 
-Moja przygoda z programowaniem zaczęła się już dawno temu, ale dopiero teraz, dzięki sztucznej inteligencji i asystentom pisania kodu, czerpię z tego prawdziwą przyjemność. To nie tylko satysfakcja z tworzenia, ale również ogromny impuls do rozwoju intelektualnego i realne korzyści materialne.
+Moja przygoda z programowaniem zaczęła się już dawno temu, ale dopiero teraz, dzięki LLM i asystentom pisania kodu, czerpię z tego prawdziwą przyjemność. To nie tylko satysfakcja z tworzenia, ale również ogromny impuls do rozwoju intelektualnego i realne korzyści materialne.
 
 Zapraszam do odkrywania moich projektów i dzielenia się swoimi spostrzeżeniami! https://github.com/PawcioSid/Przeglad_projektow.git
 
